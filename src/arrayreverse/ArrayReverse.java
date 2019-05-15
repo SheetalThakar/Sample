@@ -33,6 +33,7 @@ public class ArrayReverse {
         {
             System.out.println(c[i]);
         }
+        System.out.println("Bye");
     }
     
 }
